@@ -1,0 +1,43 @@
+body{
+    background-color: red;
+    text-align: center;
+    background-image: url(../images/background.jpg);
+    background-image: repeat;
+    font-family: 'Dekko' , cursive;
+    color: rgb(159 , 193 , 94);
+}
+
+.game-body{
+    background-color: rgb(252, 255, 223);
+    width: 80%;
+    height: 100%;
+    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
+
+.game-title{
+    height: 180px;
+}
+
+.title-text{
+    font-family: 'Molle' , cursive;
+    font-size: 100px;;
+    height:180px;
+    color: rgb(251 , 209 , 192);
+    padding-top: 30px;
+}
+
+.timer{
+    height: 50px;
+}
+
+.timer-text{
+    padding-top: 10px;
+    color: rgb(44 , 91 , 35);
+}
+
+.QA-content{
+    padding-top: 30px;
+}
